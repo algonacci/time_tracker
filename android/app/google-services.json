@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "59278988832",
-    "project_id": "time-tracker-app-12373",
-    "storage_bucket": "time-tracker-app-12373.appspot.com"
+    "project_number": "494614426643",
+    "project_id": "time-tracker-flutter-cou-c12e0",
+    "storage_bucket": "time-tracker-flutter-cou-c12e0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:59278988832:android:a7ae9434679cedf1410e45",
+        "mobilesdk_app_id": "1:494614426643:android:993a3e6fd9c65ec8003be6",
         "android_client_info": {
-          "package_name": "com.example.flutter_time_tracker"
+          "package_name": "com.eric.timetrackerfluttercourse"
         }
       },
       "oauth_client": [
         {
-          "client_id": "59278988832-fks272021vu7pcnuce61rrclhhi2l9or.apps.googleusercontent.com",
+          "client_id": "494614426643-l19rm1gl4hdfp3f3gqeij96vmghhpnle.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.flutter_time_tracker",
-            "certificate_hash": "280b79ed8b18e1a7657336b4723cf32834acca95"
+            "package_name": "com.eric.timetrackerfluttercourse",
+            "certificate_hash": "180a447b26e2526bfdeeb416cbd30fef657498f4"
           }
         },
         {
-          "client_id": "59278988832-pnmdifjhtaui6fprcrbkmpfurdsmg0ag.apps.googleusercontent.com",
+          "client_id": "494614426643-qje83eip46g8s23ne3bpo3htcs477cme.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDCA3AtDcHuygDMOSEOthEtqLoV8LF2Uu8"
+          "current_key": "AIzaSyAo2CpSb7y4tj1HQ53CTP9ltdDPBYPzF1k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "59278988832-pnmdifjhtaui6fprcrbkmpfurdsmg0ag.apps.googleusercontent.com",
+              "client_id": "494614426643-qje83eip46g8s23ne3bpo3htcs477cme.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
