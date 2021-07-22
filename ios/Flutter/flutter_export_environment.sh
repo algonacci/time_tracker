@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=C:\flutter"
-export "FLUTTER_APPLICATION_PATH=C:\Users\asus\Desktop\flutter_time_tracker\flutter_time_tracker"
+export "FLUTTER_APPLICATION_PATH=C:\Users\asus\Desktop\time_tracker_flutter_course"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"

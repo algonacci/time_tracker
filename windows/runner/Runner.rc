@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.eric.timetrackerfluttercourse" "\0"
             VALUE "FileDescription", "A new Flutter project." "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "flutter_time_tracker" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2021 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "flutter_time_tracker.exe" "\0"
-            VALUE "ProductName", "flutter_time_tracker" "\0"
+            VALUE "InternalName", "time_tracker_flutter_course" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2021 com.eric.timetrackerfluttercourse. All rights reserved." "\0"
+            VALUE "OriginalFilename", "time_tracker_flutter_course.exe" "\0"
+            VALUE "ProductName", "time_tracker_flutter_course" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

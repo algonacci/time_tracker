@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(flutter_time_tracker LANGUAGES CXX)
+project(time_tracker_flutter_course LANGUAGES CXX)
 
-set(BINARY_NAME "flutter_time_tracker")
+set(BINARY_NAME "time_tracker_flutter_course")
 
 cmake_policy(SET CMP0063 NEW)
 
